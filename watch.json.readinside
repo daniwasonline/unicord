@@ -1,0 +1,20 @@
+// If you are hosting on Glitch or another service that deploys changes in real-time, change this file's name to watch.json.
+{
+  "install": {
+    "include": [
+      "^package\\.json$",
+      "^\\.env$"
+    ]
+  },
+  "restart": {
+    "exclude": [
+      "^public/",
+      "^dist/"
+    ],
+    "include": [
+      "\\.js$",
+      "\\.json"
+    ]
+  },
+  "throttle": 3600000
+}
