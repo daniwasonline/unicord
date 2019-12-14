@@ -10,9 +10,9 @@ const Discord = require("discord.js");
 exports.run = (client, message, args, level) => {
   const UwU = new Discord.RichEmbed()
     .setColor("#0099ff")
-    .setTitle("Check out the commands page!")
+    .setTitle("Commands")
     .setAuthor("Help Module")
-    .setDescription("Click [here](https://sites.google.com/view/unicord/commands) to access the commands page.")
+    .setDescription("If you are seeing this, it means that the developers of your server's instance of Unicord have not implemented a command list. That being said, you can still probably use the commands listed [here](https://sites.google.com/view/unicord/commands).")
     .setTimestamp()
     .setFooter("Unicord");
   message.channel.send(UwU);
