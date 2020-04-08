@@ -7,7 +7,7 @@ Open-source Discord bot, licensed under the MIT License
 
 ## Support
 - Email Bean at beanydanny@gmail.com
-- Talk to Bean on Twitter (@Dannywooosh)
+- Talk to Bean on Twitter (@DeadDayDan)
 
 
 2019, Bean. Licensed under the MIT License.
