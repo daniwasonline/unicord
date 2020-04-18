@@ -1,6 +1,6 @@
-MIT License
+Danny's MIT License
 
-Copyright (c) 2019 Bean
+Copyright (c) 2020 SaturdayNightDead
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -11,6 +11,8 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+Any other copies of this software that are forked or modified without the discretion of the author/copyright holder (SaturdayNightDead) must *not* impersonate this software in **any** way.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
