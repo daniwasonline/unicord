@@ -26,7 +26,7 @@
     "discord.js": "^11.5.1",
     "enmap": "^5.2.3",
     "inquirer": "^7.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-duration-format": "^2.3.2",
     "express": "^4.17.1",
     "soundcloudr": "^1.1.0",
